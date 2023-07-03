@@ -46,9 +46,9 @@ function getTotalSupply() {
 // Call your functions below this line.
 
 // Mint some NFTs and store them in the variable.
-const nft1 = mintNFT("NFT 1", "This is the first NFT", "image1.png");
-const nft2 = mintNFT("NFT 2", "This is the second NFT", "image2.png");
-const nft3 = mintNFT("NFT 3", "This is the third NFT", "image3.png");
+const nft1 = mintNFT("JackTheDog", "The legendary Warrior Dog", "Jack.png");
+const nft2 = mintNFT("SparrowTheUndead", "A Zombie Bird", "Sparrow.png");
+const nft3 = mintNFT("SilverMew", "Stealthy Cat", "SilverMew.png");
 
 // Create an array of NFTs.
 const nfts = [nft1, nft2, nft3];
